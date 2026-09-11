@@ -1,4 +1,4 @@
-# Multi-Tenant E-Commerce Platform
+#LIVE DEMO:-https://multi-tenant-ecommerce-live.vercel.app/
 
 ## 1. Project Overview
 
@@ -200,8 +200,8 @@ Registered users should be able to login.
 
 ### Input
 
-- Email
-- Password
+- Email-anuj@gmail.com
+- Password-123456
 
 ### Output
 
